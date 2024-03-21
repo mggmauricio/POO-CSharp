@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/Variables.sourcelink.json
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/bin/Debug/net8.0/Variables
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/bin/Debug/net8.0/Variables.deps.json
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/bin/Debug/net8.0/Variables.dll
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/bin/Debug/net8.0/Variables.pdb
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/Variables.dll
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/refint/Variables.dll
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/Variables.pdb
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO/Aula1/Variables/obj/Debug/net8.0/ref/Variables.dll

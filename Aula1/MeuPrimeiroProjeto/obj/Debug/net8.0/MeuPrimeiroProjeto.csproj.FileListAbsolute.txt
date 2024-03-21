@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/bin/Debug/net8.0/MeuPrimeiroProjeto
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/bin/Debug/net8.0/MeuPrimeiroProjeto.deps.json
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/bin/Debug/net8.0/MeuPrimeiroProjeto.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/bin/Debug/net8.0/MeuPrimeiroProjeto.dll
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/bin/Debug/net8.0/MeuPrimeiroProjeto.pdb
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/MeuPrimeiroProjeto.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/MeuPrimeiroProjeto.sourcelink.json
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/MeuPrimeiroProjeto.dll
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/refint/MeuPrimeiroProjeto.dll
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/MeuPrimeiroProjeto.pdb
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/MeuPrimeiroProjeto.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO/Aula1/MeuPrimeiroProjeto/obj/Debug/net8.0/ref/MeuPrimeiroProjeto.dll

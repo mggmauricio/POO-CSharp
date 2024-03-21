@@ -14,16 +14,19 @@ Abra um terminal e navegue até o diretório onde deseja criar o seu projeto. Em
 
 ```bash
 dotnet new console -o MeuProjetoCSharp
+```
 
 ### 2. Entrar no diretório recém criado
 
 ```bash
 cd MeuProjetoCSharp
+```
 
 ### 3. Executar o projeto
 
 ```bash
 dotnet run
+```
 
 
 

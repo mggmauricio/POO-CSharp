@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/bin/Debug/net8.0/Comparacao
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/bin/Debug/net8.0/Comparacao.deps.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/bin/Debug/net8.0/Comparacao.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/bin/Debug/net8.0/Comparacao.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/bin/Debug/net8.0/Comparacao.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/Comparacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/Comparacao.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/Comparacao.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/Comparacao.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/Comparacao.sourcelink.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/Comparacao.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/refint/Comparacao.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/Comparacao.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/Comparacao.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/Comparacao/obj/Debug/net8.0/ref/Comparacao.dll

@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/bin/Debug/net8.0/First
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/bin/Debug/net8.0/First.deps.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/bin/Debug/net8.0/First.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/bin/Debug/net8.0/First.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/bin/Debug/net8.0/First.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/First.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/First.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/First.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/First.sourcelink.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/First.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/refint/First.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/First.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/First.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/First/obj/Debug/net8.0/ref/First.dll

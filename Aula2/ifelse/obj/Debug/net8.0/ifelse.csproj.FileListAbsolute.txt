@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/bin/Debug/net8.0/ifelse
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/bin/Debug/net8.0/ifelse.deps.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/bin/Debug/net8.0/ifelse.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/bin/Debug/net8.0/ifelse.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/bin/Debug/net8.0/ifelse.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ifelse.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ifelse.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ifelse.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ifelse.sourcelink.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ifelse.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/refint/ifelse.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ifelse.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ifelse.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/ifelse/obj/Debug/net8.0/ref/ifelse.dll

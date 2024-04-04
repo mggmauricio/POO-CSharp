@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/Persons.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/Persons.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/Persons.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/Persons.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/Persons.sourcelink.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/bin/Debug/net8.0/Persons
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/bin/Debug/net8.0/Persons.deps.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/bin/Debug/net8.0/Persons.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/bin/Debug/net8.0/Persons.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/bin/Debug/net8.0/Persons.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/Persons.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/refint/Persons.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/Persons.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/Persons.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Persons/obj/Debug/net8.0/ref/Persons.dll

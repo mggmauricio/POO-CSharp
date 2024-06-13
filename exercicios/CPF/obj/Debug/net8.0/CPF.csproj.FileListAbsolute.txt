@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/bin/Debug/net8.0/CPF
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/bin/Debug/net8.0/CPF.deps.json
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/bin/Debug/net8.0/CPF.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/bin/Debug/net8.0/CPF.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/bin/Debug/net8.0/CPF.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/CPF.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/CPF.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/CPF.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/CPF.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/CPF.sourcelink.json
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/CPF.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/refint/CPF.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/CPF.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/CPF.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/CPF/obj/Debug/net8.0/ref/CPF.dll

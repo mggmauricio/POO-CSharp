@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/bin/Debug/net8.0/casting
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/bin/Debug/net8.0/casting.deps.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/bin/Debug/net8.0/casting.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/bin/Debug/net8.0/casting.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/bin/Debug/net8.0/casting.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/casting.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/casting.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/casting.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/casting.sourcelink.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/casting.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/refint/casting.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/casting.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/casting.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula2/casting/obj/Debug/net8.0/ref/casting.dll

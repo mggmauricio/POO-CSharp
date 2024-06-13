@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/bin/Debug/net8.0/Trinagle
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/bin/Debug/net8.0/Trinagle.deps.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/bin/Debug/net8.0/Trinagle.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/bin/Debug/net8.0/Trinagle.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/bin/Debug/net8.0/Trinagle.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/Trinagle.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/Trinagle.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/Trinagle.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/Trinagle.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/Trinagle.sourcelink.json
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/Trinagle.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/refint/Trinagle.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/Trinagle.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/Trinagle.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/Aula3/Trinagle/obj/Debug/net8.0/ref/Trinagle.dll

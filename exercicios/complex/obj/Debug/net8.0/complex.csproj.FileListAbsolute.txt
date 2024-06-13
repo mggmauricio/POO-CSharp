@@ -1,0 +1,15 @@
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/bin/Debug/net8.0/complex
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/bin/Debug/net8.0/complex.deps.json
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/bin/Debug/net8.0/complex.runtimeconfig.json
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/bin/Debug/net8.0/complex.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/bin/Debug/net8.0/complex.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/complex.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/complex.AssemblyInfoInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/complex.AssemblyInfo.cs
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/complex.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/complex.sourcelink.json
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/complex.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/refint/complex.dll
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/complex.pdb
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/complex.genruntimeconfig.cache
+/home/mauricio/Documents/faculdade/POO-CSharp/exercicios/complex/obj/Debug/net8.0/ref/complex.dll
